@@ -6,7 +6,7 @@
 
 **Task 3:** Data Integration + Merging
 
-### Project 1: NLP Job Ads + Classification
+### Project 2: NLP Job Ads + Classification
 
 **Task 1 :** Text Pre-Processing
 
